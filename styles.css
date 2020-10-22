@@ -24,11 +24,10 @@ h2 {
   width: 128px;
   height: 128px;
   margin: 0 auto;
-  margin-top: 80px;
+  margin-top: 120px;
 }
 
-.block {
-    width: 344px;
+.MA-block {
     height: 64px;
     background: #F5F7FA;
     border-radius: 12px;
